@@ -1,16 +1,23 @@
 ## Hi there 👋
+I’m a Computer Information Systems student with a cybersecurity minor at University of Houston Clear Lake, graduating May 2026.\
+I’m interested in IT support, systems, networking, and building practical apps.
 
-<!--
-**Maisuria-Rohan/Maisuria-Rohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Current focus**
+ - Building and documenting projects that show real IT and app skills.
+ - Improving GitHub repos so they are easy to run and easy to review.
 
-Here are some ideas to get you started:
+**Skills**
+ - Programming: Python, SQL. 
+ - Databases: MySQL, PyMySQL, relational design. 
+ - Networking and security: VLANs, ACLs, Wireshark, Cisco Packet Tracer. 
+ - Systems and tools: Windows, macOS, Linux, VirtualBox, Git, Microsoft Office.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Certifications**
+ - CompTIA Project Plus PK0 005, issued April 2025. 
+ - Cisco CyberOps Associate, issued May 2025. 
+
+**Experience**
+ - OIT Support at UHCL Academic Computing Labs, AV and classroom support, ticketing and escalation.
+
+**Links**
+[Resume 2025 (New).docx](https://github.com/user-attachments/files/25371272/Resume.2025.New.docx)
