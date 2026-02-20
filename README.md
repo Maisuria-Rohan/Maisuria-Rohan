@@ -1,6 +1,6 @@
 ## Hi there 👋
 I’m a Computer Information Systems student with a cybersecurity minor at University of Houston Clear Lake, graduating May 2026.\
-I’m interested in IT support, systems, networking, and building practical apps.
+I’m interested in IT support, Information Systems, Networking, and Cybesecurity.
 
 **Current focus**
  - Building and documenting projects that show real IT and app skills.
@@ -14,7 +14,8 @@ I’m interested in IT support, systems, networking, and building practical apps
 
 **Certifications**
  - CompTIA Project Plus PK0 005, issued April 2025. 
- - Cisco CyberOps Associate, issued May 2025. 
+ - Cisco CyberOps Associate, issued May 2025.
+ - Studying for Network+
 
 **Experience**
  - OIT Support at UHCL Academic Computing Labs, AV and classroom support, ticketing and escalation.
