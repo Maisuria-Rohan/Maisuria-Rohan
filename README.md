@@ -21,4 +21,4 @@ I’m interested in IT support, Information Systems, Networking, and Cybesecurit
  - OIT Support at UHCL Academic Computing Labs, AV and classroom support, ticketing and escalation.
 
 **Links**
-[Resume 2025 (New).docx](https://github.com/user-attachments/files/25371272/Resume.2025.New.docx)
+
